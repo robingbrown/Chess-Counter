@@ -1,0 +1,9 @@
+﻿
+A standard telephone keyboard consists of a 4x3 grid of buttons. Using the valid moves of a piece from the game of chess, varying combinations of seven-digit phone numbers can be created.
+
+Write a program that will count the number of valid seven-digit phone numbers for every chess piece
+
+The following rules define a valid phone number
+ - Seven digits in length
+ - Cannot start with 0 or 1
+ - Cannot contain * or #

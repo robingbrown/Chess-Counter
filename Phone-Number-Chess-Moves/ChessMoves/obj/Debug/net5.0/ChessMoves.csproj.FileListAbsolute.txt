@@ -1,0 +1,12 @@
+C:\Users\Robin\Source\Repos\robingbrown\Chess-Counter\Phone-Number-Chess-Moves\ChessMoves\bin\Debug\net5.0\ChessMoves.deps.json
+C:\Users\Robin\Source\Repos\robingbrown\Chess-Counter\Phone-Number-Chess-Moves\ChessMoves\bin\Debug\net5.0\ChessMoves.dll
+C:\Users\Robin\Source\Repos\robingbrown\Chess-Counter\Phone-Number-Chess-Moves\ChessMoves\bin\Debug\net5.0\ref\ChessMoves.dll
+C:\Users\Robin\Source\Repos\robingbrown\Chess-Counter\Phone-Number-Chess-Moves\ChessMoves\bin\Debug\net5.0\ChessMoves.pdb
+C:\Users\Robin\Source\Repos\robingbrown\Chess-Counter\Phone-Number-Chess-Moves\ChessMoves\obj\Debug\net5.0\ChessMoves.csproj.AssemblyReference.cache
+C:\Users\Robin\Source\Repos\robingbrown\Chess-Counter\Phone-Number-Chess-Moves\ChessMoves\obj\Debug\net5.0\ChessMoves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robin\Source\Repos\robingbrown\Chess-Counter\Phone-Number-Chess-Moves\ChessMoves\obj\Debug\net5.0\ChessMoves.AssemblyInfoInputs.cache
+C:\Users\Robin\Source\Repos\robingbrown\Chess-Counter\Phone-Number-Chess-Moves\ChessMoves\obj\Debug\net5.0\ChessMoves.AssemblyInfo.cs
+C:\Users\Robin\Source\Repos\robingbrown\Chess-Counter\Phone-Number-Chess-Moves\ChessMoves\obj\Debug\net5.0\ChessMoves.csproj.CoreCompileInputs.cache
+C:\Users\Robin\Source\Repos\robingbrown\Chess-Counter\Phone-Number-Chess-Moves\ChessMoves\obj\Debug\net5.0\ChessMoves.dll
+C:\Users\Robin\Source\Repos\robingbrown\Chess-Counter\Phone-Number-Chess-Moves\ChessMoves\obj\Debug\net5.0\ref\ChessMoves.dll
+C:\Users\Robin\Source\Repos\robingbrown\Chess-Counter\Phone-Number-Chess-Moves\ChessMoves\obj\Debug\net5.0\ChessMoves.pdb
